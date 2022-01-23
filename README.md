@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adriankokai
 - 👀 I’m interested in Python, Js
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently learning cloud computing while studying Software Engineering at TCFL
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 reach me via email adriankokai@gmail.com
 
